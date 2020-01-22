@@ -7,7 +7,7 @@ namespace Day_2_Class
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("This is Sean's message for the class!");
+            Console.WriteLine("This is Sean's message for the class!!");
             Console.ReadLine();
         }
     }
